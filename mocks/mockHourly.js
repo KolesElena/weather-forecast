@@ -1,5 +1,5 @@
 const mockHourlyWeather =  
-    [
+    [ 
         {
             name: "Moscow",
             data: [
