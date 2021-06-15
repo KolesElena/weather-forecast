@@ -1,0 +1,108 @@
+{ "data": [
+    {
+        "name": "Moscow",
+        "data": [
+            {
+                "day": "Monday",
+                "coord": {},
+                "weather": [],
+                "base": "stations",
+                "main": {
+                    "temp": 288.1,
+                    "feels_like": 287.97,
+                    "temp_min": 284.97,
+                    "temp_max": 290.03,
+                    "pressure": 1011,
+                    "humidity": 89,
+                    "sea_level": 1011,
+                    "grnd_level": 994
+                },
+                "visibility": 10000,
+                "wind": {},
+                "clouds": {},
+                "dt": 1623098916,
+                "sys": {},
+                "timezone": 10800,
+                "id": 524901,
+                "cod": 200
+            },
+            {
+                "day": "Tuesday",
+                "coord": {},
+                "weather": [],
+                "base": "stations",
+                "main": {
+                    "temp": 288.1,
+                    "feels_like": 287.97,
+                    "temp_min": 284.97,
+                    "temp_max": 290.03,
+                    "pressure": 1011,
+                    "humidity": 89,
+                    "sea_level": 1011,
+                    "grnd_level": 994
+                },
+                "visibility": 10000,
+                "wind": {},
+                "clouds": {},
+                "dt": 1623098916,
+                "sys": {},
+                "timezone": 10800,
+                "id": 524901,
+                "cod": 200
+            }
+        ]
+    },
+    {
+        "name": "London",
+        "data": [
+            {
+                "day": "Monday",
+                "coord": {},
+                "weather": [],
+                "base": "stations",
+                "main": {
+                    "temp": 288.1,
+                    "feels_like": 287.97,
+                    "temp_min": 284.97,
+                    "temp_max": 290.03,
+                    "pressure": 1011,
+                    "humidity": 89,
+                    "sea_level": 1011,
+                    "grnd_level": 994
+                },
+                "visibility": 10000,
+                "wind": {},
+                "clouds": {},
+                "dt": 1623098916,
+                "sys": {},
+                "timezone": 10800,
+                "id": 524901,
+                "cod": 200
+            },
+            {
+                "day": "Tuesday",
+                "coord": {},
+                "weather": [],
+                "base": "stations",
+                "main": {
+                    "temp": 288.1,
+                    "feels_like": 287.97,
+                    "temp_min": 284.97,
+                    "temp_max": 290.03,
+                    "pressure": 1011,
+                    "humidity": 89,
+                    "sea_level": 1011,
+                    "grnd_level": 994
+                },
+                "visibility": 10000,
+                "wind": {},
+                "clouds": {},
+                "dt": 1623098916,
+                "sys": {},
+                "timezone": 10800,
+                "id": 524901,
+                "cod": 200
+            }
+        ]
+    }
+]}
